@@ -45,14 +45,13 @@ Pode ser aberto diretamente em qualquer ambiente Jupyter ou Google Colab para ex
 predicao-acidentes-graves/  
 ├── notebooks/  
 │   └── Predicao_acidentes_graves.ipynb  
-├── README.md  
-├── requirements.txt  
+├── README.md    
 └── LICENSE
 
 ## Autor
 
 Heitor Tonet  
-Engenheiro de Controle e Automação e Cientista de Dados. Atua em projetos voltados para segurança urbana, mobilidade inteligente, manutenção preditiva e aprendizado de máquina aplicado a sistemas reais.
+Engenheiro de Controle e Automação e Cientista de Dados, com foco em aplicações industriais, mobilidade inteligente e modelagem preditiva aplicada ao mundo físico.
 
 ## Licença
 
